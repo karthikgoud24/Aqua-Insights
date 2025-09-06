@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 # 🌊 AquaInsights Pro
 
 AquaInsights Pro is a *citizen-centric water quality monitoring and reporting application*.  
@@ -70,22 +67,22 @@ It empowers citizens and children to monitor water quality in real time, report 
 ## 🖼 Images  
 
 ### App Logo  
-![Images/logo.png](Images/logo.png)  
+![Images/logo.png](Images/image1.jpg)  
 
 ### Dashboard  
-![Images/dashboard.png](Images/dashboard.png)  
+![Images/dashboard.png](Images/image2.jpg)  
 
 ### Scan & Analyze  
-![Images/scan.png](Images/scan.png)  
+![Images/scan.png](Images/image3.jpg)  
 
 ### Kids Corner  
-![Images/kids_corner.png](Images/kids_corner.png)  
+![Images/kids_corner.png](Images/image4.jpg)  
 
 ### Reporting  
-![Images/reporting.png](Images/reporting.png)  
+![Images/reporting.png](Images/image5.jpg)  
 
 ### Sanitation & Treatment  
-![Images/treatment.png](Images/treatment.png)  
+![Images/treatment.png](Images/image6.jpg)  
 
 ---
 
@@ -116,25 +113,6 @@ KARTHIK , THRINESH , SANTOSH :
 Our application ensures *community-driven water safety. By combining **real-time monitoring, citizen reporting, and playful learning, AquaInsights Pro is both a **serious tool for awareness* and a *fun app for children*.  
 
 ---
+
 =======
->>>>>>> 6d34677 (Updated UI)
-# aquascan
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-<<<<<<< HEAD
-=======
->>>>>>> 7b13293 (Initial commit)
 >>>>>>> 6d34677 (Updated UI)
