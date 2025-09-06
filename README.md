@@ -121,6 +121,3 @@ Our application ensures *community-driven water safety. By combining **real-time
 
 ---
 
-=======
->>>>>>> 6d34677 (Updated UI)
-
