@@ -76,14 +76,21 @@ It empowers citizens and children to monitor water quality in real time, report 
 ![Images/scan.png](Images/image3.jpg)  
 
 ### Kids Corner  
-![Images/kids_corner.png](Images/image4.jpg)  
+![Images/kids_corner.png](Images/image7.jpg) 
+
+![Images/treatment.png](Images/image8.jpg)
 
 ### Reporting  
 ![Images/reporting.png](Images/image5.jpg)  
 
 ### Sanitation & Treatment  
-![Images/treatment.png](Images/image6.jpg)  
+![Images/treatment.png](Images/image4.jpg)  
 
+### Quiz And Badges
+![Images/treatment.png](Images/image6.jpg)
+
+### Main Page 
+![Images/treatment.png](Images/image9.jpg)
 ---
 
 ## 💻 Tech Flow  
@@ -116,3 +123,4 @@ Our application ensures *community-driven water safety. By combining **real-time
 
 =======
 >>>>>>> 6d34677 (Updated UI)
+
