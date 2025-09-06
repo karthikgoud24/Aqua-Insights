@@ -102,13 +102,14 @@ It empowers citizens and children to monitor water quality in real time, report 
 
 ### Contributions  
 TEAM CONTRIBUTIONS :
-ROHAN , HARSHITH :
+ROHAN , SANTOSH :
 - Developed WQI Dashboard & Quick Scan.  
 - Implemented Reporting System (photo, video, voice, location).  
 - Contributed to Backend Integration.  
-- Wrote documentation & setup repository.  
+- Wrote documentation & setup repository.
+- Some part of work in Quiz and other(Animations)  
 
-KARTHIK , THRINESH , SANTOSH :
+KARTHIK , THRINESH , HARSHITH :
 - Designed UI/UX (animations, Kids Corner, gamification).  
 - Built Kids Corner (comics, mascot, games).  
 - Worked on Sanitation & Treatment modules.  
@@ -120,4 +121,5 @@ KARTHIK , THRINESH , SANTOSH :
 Our application ensures *community-driven water safety. By combining **real-time monitoring, citizen reporting, and playful learning, AquaInsights Pro is both a **serious tool for awareness* and a *fun app for children*.  
 
 ---
+
 
