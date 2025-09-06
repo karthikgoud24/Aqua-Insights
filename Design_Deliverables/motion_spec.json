@@ -1,0 +1,19 @@
+{
+  "button_press": {
+    "scale": 0.96,
+    "in_ms": 120,
+    "out_ms": 160
+  },
+  "card_flip": {
+    "type": "3D_Y_rotation",
+    "duration_ms": 420,
+    "easing": "ease-in-out"
+  },
+  "map_pin_drop": {
+    "translateY": "-30px",
+    "spring": {
+      "stiffness": 700
+    },
+    "duration_ms": 600
+  }
+}

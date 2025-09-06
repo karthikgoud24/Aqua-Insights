@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500">
+<rect width="100%" height="100%" fill="#F7FBFF"/>
+<g>
+  <rect x="40" y="40" width="720" height="200" rx="12" fill="#0077FF" opacity="0.12"/>
+  <text x="60" y="120" font-family="Inter, sans-serif" font-size="36" fill="#0B5B73">Community Treatment Flow</text>
+</g>
+</svg>

@@ -1,0 +1,35 @@
+{
+  "colors": {
+    "deep_ocean": "#0B5B73",
+    "aqua_start": "#00D4FF",
+    "aqua_end": "#0077FF",
+    "teal_accent": "#0FB3A3",
+    "coral": "#FF6B6B",
+    "sun_yellow": "#FFD166",
+    "neutral_text": "#0F1724",
+    "soft_bg": "#F7FBFF"
+  },
+  "typography": {
+    "heading": "Poppins-SemiBold",
+    "body": "Inter-Regular",
+    "kid_heading": "Baloo-Regular",
+    "sizes": {
+      "h1": 28,
+      "h2": 22,
+      "body": 16,
+      "caption": 12
+    }
+  },
+  "layout": {
+    "baseline": 8,
+    "columns": 4,
+    "safe_margin": 16,
+    "touch_target": 48
+  },
+  "motion": {
+    "micro": 150,
+    "short": 280,
+    "medium": 500,
+    "long": 900
+  }
+}

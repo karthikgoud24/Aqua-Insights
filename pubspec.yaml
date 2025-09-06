@@ -1,0 +1,27 @@
+
+name: aqua_insights_pro
+description: Advanced Aqua Insights demo with expanded Kids Corner & Quiz
+publish_to: "none"
+version: 1.0.1+2
+
+environment:
+  sdk: ">=3.2.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  image_picker: ^1.0.7
+  shared_preferences: ^2.2.2
+
+  image: ^4.0.17
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/kids_videos/
+    - assets/images/
+    - assets/lottie/

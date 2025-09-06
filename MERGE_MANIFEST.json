@@ -1,0 +1,68 @@
+{
+  "full_analyze_found": [
+    "/mnt/data/aqua_merge_work/full/analysis_options.yaml",
+    "/mnt/data/aqua_merge_work/full/lib/screens/analysis.dart"
+  ],
+  "updated_analyze_found": [
+    "/mnt/data/aqua_merge_work/updated/analysis_options.yaml",
+    "/mnt/data/aqua_merge_work/updated/lib/screens/analysis.dart.bak",
+    "/mnt/data/aqua_merge_work/updated/lib/screens/analysis.dart"
+  ],
+  "copied_paths": [
+    "analysis_options.yaml",
+    "lib/screens/analysis.dart"
+  ],
+  "added_kids_assets": [
+    "features/kids_corner/comics/comic_1.svg",
+    "features/kids_corner/comics/comic_2.svg",
+    "features/kids_corner/comics/comic_3.svg",
+    "features/kids_corner/comics/comic_4.svg",
+    "features/kids_corner/tips.md",
+    "features/kids_corner/ai_videos/ai_video_01.gif",
+    "features/kids_corner/ai_videos/ai_video_02.gif",
+    "features/kids_corner/ai_videos/ai_video_03.gif",
+    "features/kids_corner/ai_videos/ai_video_04.gif",
+    "features/kids_corner/ai_videos/ai_video_05.gif",
+    "features/kids_corner/ai_videos/ai_video_06.gif",
+    "features/kids_corner/ai_videos/ai_video_07.gif",
+    "features/kids_corner/ai_videos/ai_video_08.gif",
+    "features/kids_corner/ai_videos/ai_video_09.gif",
+    "features/kids_corner/ai_videos/ai_video_10.gif",
+    "features/kids_corner/ai_videos/ai_video_11.gif",
+    "features/kids_corner/ai_videos/ai_video_12.gif",
+    "features/kids_corner/ai_videos/thumbnails/ai_video_01_thumb.png",
+    "features/kids_corner/ai_videos/thumbnails/ai_video_02_thumb.png",
+    "features/kids_corner/ai_videos/thumbnails/ai_video_03_thumb.png",
+    "features/kids_corner/ai_videos/thumbnails/ai_video_04_thumb.png",
+    "features/kids_corner/ai_videos/thumbnails/ai_video_05_thumb.png",
+    "features/kids_corner/ai_videos/thumbnails/ai_video_06_thumb.png",
+    "features/kids_corner/ai_videos/thumbnails/ai_video_07_thumb.png",
+    "features/kids_corner/ai_videos/thumbnails/ai_video_08_thumb.png",
+    "features/kids_corner/ai_videos/thumbnails/ai_video_09_thumb.png",
+    "features/kids_corner/ai_videos/thumbnails/ai_video_10_thumb.png",
+    "features/kids_corner/ai_videos/thumbnails/ai_video_11_thumb.png",
+    "features/kids_corner/ai_videos/thumbnails/ai_video_12_thumb.png"
+  ],
+  "added_sanitation_assets": [
+    "education/sanitation_and_treatment/sanitation_treatment_extended.md",
+    "education/sanitation_and_treatment/boiling_diagram.svg",
+    "education/sanitation_and_treatment/community_flow.svg",
+    "assets/animations/splash_ripple_placeholder.json"
+  ],
+  "design_deliverables": [
+    "Design_Deliverables/design_tokens.json",
+    "Design_Deliverables/COMPONENT_LIBRARY.md",
+    "Design_Deliverables/motion_spec.json",
+    "Design_Deliverables/mascot_blink.json",
+    "Design_Deliverables/wqi_meter_slosh.json",
+    "Design_Deliverables/coin_shower.json",
+    "Design_Deliverables/screens_360x800/01_splash.png",
+    "Design_Deliverables/screens_360x800/02_onboarding_1.png",
+    "Design_Deliverables/screens_360x800/03_home_dashboard.png",
+    "Design_Deliverables/screens_360x800/04_scan.png",
+    "Design_Deliverables/screens_360x800/05_education_kids.png",
+    "Design_Deliverables/screens_360x800/06_rewards.png",
+    "Design_Deliverables/playstore/feature_graphic.gif",
+    "Design_Deliverables/README_HANDOFF.md"
+  ]
+}

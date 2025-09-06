@@ -1,0 +1,54 @@
+plugins {
+    id "com.android.application"
+    id "org.jetbrains.kotlin.android"
+    id "dev.flutter.flutter-gradle-plugin"
+}
+
+android {
+    namespace "com.example.aqua_insights_pro"
+    compileSdk 36
+
+    defaultConfig {
+        applicationId "com.example.aqua_insights_pro"
+        minSdkVersion flutter.minSdkVersion
+        targetSdk 36
+        versionCode 2
+        versionName "1.0.0"
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    // Ensure APK created in predictable location for Flutter tools
+    applicationVariants.all { variant ->
+        variant.outputs.all { output ->
+            if (output.outputFileName != null && output.outputFileName.endsWith(".apk")) {
+                output.outputFileName = "app-${variant.name}.apk"
+            }
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_11
+        targetCompatibility JavaVersion.VERSION_11
+    }
+    kotlinOptions {
+        jvmTarget = "11"
+    }
+
+    buildTypes {
+        release {
+            signingConfig signingConfigs.debug
+            minifyEnabled false
+            shrinkResources false
+            proguardFiles getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro"
+        }
+    }
+
+    // Keep any existing productFlavors or other configurations in original project structure.
+}
+
+flutter {
+    source "../.."
+}
+
+dependencies {
+}
